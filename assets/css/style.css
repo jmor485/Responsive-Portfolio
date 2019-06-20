@@ -94,7 +94,7 @@ section {
 
 h2 {
     width: 95%;
-    color: F6644a;
+    color: #f6644a;
     background-color: #fff;
     font-family: 'Montserrat', sans-serif;;
     font-weight: bold;
@@ -139,7 +139,7 @@ p {
 aside {
     width: 270px;
     float: left;
-    color: F6644a;
+    color: #f6644a;
     background-color: #fff;
     font-family: 'Montserrat', sans-serif;;
     font-weight: bold;
@@ -177,7 +177,7 @@ footer {
     font-family: 'Montserrat', sans-serif;;
     font-size: 20px;
     border-top: solid;
-    border-top-color: F6644a;
+    border-top-color: #f6644a;
     border-top-width: 8px;
 }
 
@@ -221,7 +221,7 @@ input {
     color: #fff;
     text-align: center;
     font-family: 'Montserrat', sans-serif;;
-    background-color: F6644a;
+    background-color: #f6644a;
     padding: 10px;
     z-index: 2;
     position: absolute;
