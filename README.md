@@ -1,3 +1,3 @@
-# Responsive-Portfolio
+# Responsive Portfolio
 
-Hello and welcome to my responsive portfolio!
+<img src="screenshot.png" alt="Screenshot"/>
